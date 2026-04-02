@@ -1,4 +1,4 @@
-# Shihab Hassan
+# Md Shihab Hassan Naim
 
 **AI Developer | Large Language Models • Agentic AI • Natural Language Processing**
 
@@ -62,8 +62,9 @@ Engineered an intelligent hiring solution featuring resume screening, bias-aware
 ---
 
 ## Contact
-- LinkedIn: (add your profile)
-- Email: (add your email)
+- LinkedIn: www.linkedin.com/in/shihabhassannaim
+- Facebook: https://www.facebook.com/ShihabHassanNaim/
+- Email: shihab.hassan.51.cse@gmail.com
 
 ---
 
