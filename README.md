@@ -18,7 +18,7 @@ I specialize in designing and developing intelligent systems powered by Large La
 ## Technical Expertise
 
 **Programming Languages**  
-Python • C++ • Kotlin  
+Python • C++   
 
 **Machine Learning & AI**  
 PyTorch • Scikit-learn • Hugging Face Transformers  
@@ -27,7 +27,7 @@ PyTorch • Scikit-learn • Hugging Face Transformers
 Retrieval-Augmented Generation (RAG) • Vector Databases • Embeddings • Agentic AI  
 
 **Tools & Platforms**  
-Git • Docker • Linux • Firebase  
+Git • Docker • Linux 
 
 ---
 
