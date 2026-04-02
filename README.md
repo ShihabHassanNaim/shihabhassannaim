@@ -1,21 +1,70 @@
-# Hi there 👋, This is Shihab Hassan.
-#### I am a dedicated coder.
-![I am a dedicated coder.](https://img.freepik.com/premium-vector/young-programmer-code-client-projects-developer-writing-program-code-flat-vector_530733-1137.jpg?size=626&ext=jpg)
+# Shihab Hassan
 
+**AI Developer | Large Language Models • Agentic AI • Natural Language Processing**
 
-Skills: HTML / CSS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / REACT JS / MATERIAL UI / NODE JS / EXPRESS JS / MONGO DB / MONGOOSE And Also Learning Many more........
-  Lastly, I am a Competitive Programmer. 
+I specialize in designing and developing intelligent systems powered by Large Language Models and modern machine learning techniques. My work focuses on building scalable, real-world AI solutions, with particular interest in agentic systems, retrieval-augmented generation (RAG), and efficient model deployment.
 
-- 🔭 I’m currently working on Web Development & Competitive Programming  
-- 🌱 I’m currently learning Back-End Development  
-- 💬 Ask me about C & C++ 
-- 📫 How to reach me: hassanshihab231@gmail.com 
-- ⚡ Fun fact: There Is No Fun Fact In Programming. 
+---
 
+## Profile Summary
+- AI Developer with a strong focus on **LLMs, NLP, and Agentic AI systems**
+- Hands-on experience in **RAG pipelines, semantic search, and ML system design**
+- Author of **5+ research publications**, including work presented at **ICCIT**
+- Strong problem-solving background with **300+ problems solved on Codeforces**
+- Passionate about **applied AI, system scalability, and intelligent automation**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihabhassannaim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-shihab-hassan-naim-014811254/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sihab.hasan.39)  
+---
 
+## Technical Expertise
 
+**Programming Languages**  
+Python • C++ • Kotlin  
 
+**Machine Learning & AI**  
+PyTorch • Scikit-learn • Hugging Face Transformers  
 
+**LLM & Advanced Systems**  
+Retrieval-Augmented Generation (RAG) • Vector Databases • Embeddings • Agentic AI  
 
+**Tools & Platforms**  
+Git • Docker • Linux • Firebase  
+
+---
+
+## Selected Projects
+
+**AI-Driven Job Recommendation System**  
+Developed a semantic matching system leveraging embeddings and LLMs to generate personalized job recommendations and automated communication.
+
+**Disaster Response & Coordination Platform**  
+Designed a real-time system enabling location sharing and AI-based disaster verification to support efficient emergency response.
+
+**Lightweight Fake News Detection System**  
+Built and optimized an LLM-based classification system for low-resource environments, targeting deployment on edge devices such as Raspberry Pi.
+
+**AI-Powered Recruitment Platform**  
+Engineered an intelligent hiring solution featuring resume screening, bias-aware evaluation, and smart candidate-job matching.
+
+---
+
+## Research & Interests
+- Agentic AI and autonomous decision-making systems  
+- Efficient and lightweight LLM deployment  
+- Continual learning and reinforcement learning integration  
+- Real-world AI system design and scalability  
+
+---
+
+## Competitive Programming
+- Solved **300+ problems on Codeforces**
+- Strong foundation in algorithms, data structures, and analytical problem solving  
+
+---
+
+## Contact
+- LinkedIn: (add your profile)
+- Email: (add your email)
+
+---
+
+_Continuously building intelligent systems with a focus on impact, efficiency, and innovation._
