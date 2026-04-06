@@ -33,6 +33,12 @@ Git • Docker • Linux
 
 ## Selected Projects
 
+**Agentic Multi-Agent System**
+Developed a multi-agent architecture using LLMs and tool integration to automate complex workflows, enabling dynamic task coordination and decision-making.
+
+**SNS Zone Bot (Intelligent Social Automation Bot)**
+Built an AI-powered bot for automated social interaction and content handling, integrating LLM-based understanding with real-time user engagement workflows.
+
 **AI-Driven Job Recommendation System**  
 Developed a semantic matching system leveraging embeddings and LLMs to generate personalized job recommendations and automated communication.
 
